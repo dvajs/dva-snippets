@@ -2,7 +2,7 @@
 
 ### how to contribute
 
-- [ ] open an issue
-- [ ] choose a good name
-- [ ] show your code
-- [ ] jsfiddle link
+- [x] open an issue
+- [x] choose a good name
+- [x] show your code
+- [x] jsfiddle link
