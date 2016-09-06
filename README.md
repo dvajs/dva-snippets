@@ -6,3 +6,5 @@
 - [x] choose a good name
 - [x] show your code
 - [x] jsfiddle link
+
+or PR
